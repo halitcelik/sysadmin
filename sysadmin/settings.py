@@ -27,7 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['VM-79ae54e0-6065-408d-802b-1dc758481f1d','halit.cruncher.ch', '89.145.167.35', 'localhost', '0.0.0.0']
 
-
 # Application definition
 
 INSTALLED_APPS = [
