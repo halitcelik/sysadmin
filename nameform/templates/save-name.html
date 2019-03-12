@@ -3,5 +3,7 @@
     <h1>Sign up</h1>
     {% csrf_token %}
     <input type="text" name="name">
-    <button type="submit">Save My Name</button>
+    <button class="fancy-btn" type="submit">Save My Name</button>
 </form>
+
+{% include "{{STATIC_URL}}/css/input.css" %}
