@@ -25,7 +25,7 @@ SECRET_KEY = 'rpls+u)wj*nqs3c_ut()7knn)wwhn8_fplpg0(g)%97q!a^9@4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['VM-79ae54e0-6065-408d-802b-1dc758481f1d', '89.145.167.35', 'localhost', '0.0.0.0']
+ALLOWED_HOSTS = ['VM-79ae54e0-6065-408d-802b-1dc758481f1d','halit.cruncher.ch', '89.145.167.35', 'localhost', '0.0.0.0']
 
 
 # Application definition
