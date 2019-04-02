@@ -22,6 +22,42 @@ input{
   margin:20px auto;
   transition: color 0.4s
 }
+
+.main-text{
+    background-color: wheat;
+    width: max-content;
+    display: flex;
+    margin: auto;
+    font-size: 30px;
+}
+
+
+h1{
+  width: max-content;
+  padding:10px 20px;
+  border:2px solid #fda;
+  color:#fda;
+  font-family:'Dancing Script',serif;
+  font-style:italic;
+  font-size:30px;
+  text-decoration:none;
+  margin:20px auto;
+  transition: color 0.4s
+}
+.fancy-btn{
+  display:inline-block;
+  position:relative;
+  padding:10px 20px;
+  border:2px solid #fda;
+  color:#fda;
+  font-family:'Dancing Script',serif;
+  font-style:italic;
+  font-size:30px;
+  text-decoration:none;
+  margin:20px auto;
+  transition: color 0.4s
+}
+
 .fancy-btn{
   display:inline-block;
   position:relative;
